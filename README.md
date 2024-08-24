@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm pamaleesha</h1>
-- 🔭 I’m currently working on **Student Attendance Automation System**
+<h1 align="center">Hi 👋, I'm maleesha</h1>
+- 🔭 I’m currently working on **IOT Based Systems*
 
 - 📫 How to reach me **palangasinghemaleesha@gmail.com**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pamaleesha</h1>
+<h1 align="center">Hi 👋, I'm maleesha Palangasinghe</h1>
 - 🔭 I’m currently working on **Iot Based Systems**
 
 - 📫 How to reach me **palangasinghemaleesha@gmail.com**
